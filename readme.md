@@ -1,24 +1,14 @@
 <img src="./assets/ignite-react.png">
+ 
+# Challenge: React Concepts
 
-# ReactJS Fundamentals
+In this challenge, you should create an application to train what you've learned so far. This will be a small application where your main goal is a to-do-list, to train State Management on React.
 
-In this module we built the basic structure of a ReactJs application, using
-tools like Webpack, Babel, Webpack Dev Server, SASS, Source Maps, Fast Refresh,
-and important concepts as components, properties, state and hooks, and usage of Typescript to add static typing to the application. 
-
-# Module Program
-
-1. Configuring the ambient
-2. Important Concepts
-3. HTTP Calls
-4. Using Typescript
-5. Finalizing Application
-
-# To-do App
+# To-do App 
 
 <img src="./assets/to-do-app.png">
 
-In this module we built an to-do app called to.do, with no data persistence, wich permits: 
+In this challenge we built an to-do app called to.do, with no data persistence, wich permits: 
 1. Create a to-do activity 
 2. Delete a to-do 
 3. Finish a to-do 
